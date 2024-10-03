@@ -1,6 +1,6 @@
 ## Hi, I'm Michael 👋 :man_technologist: 
 # 💫 About Me:
-From a nontraditional background in sports medicine to a thriving career in software engineering, I've built a solid foundation in full-stack development. My passion for creating innovative solutions and my ability to learn quickly have fueled my journey. Take a look at my GitHub profile and see some of my latest projects. Let's connect and build something amazing together.
+Nice to meet you! I come from a nontraditional background in sports medicine. Over the last couple of years I've transitioned into a career in software engineering. I've built a solid foundation in full-stack development. My passion for creating innovative solutions and my ability to learn quickly have fueled my journey. Take a look at my GitHub profile and see some of my latest projects. Let's connect and build something amazing together.
 
 
 ## 🌐 Socials:
